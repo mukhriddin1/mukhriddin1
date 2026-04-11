@@ -33,7 +33,7 @@ When I'm not battling algorithms, I craft 3D animated scenes. I believe good cod
 
 ### 📫 Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m7sel)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mk.mukhridd1n)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mk.mukhr1ddin)
 
 ---
 

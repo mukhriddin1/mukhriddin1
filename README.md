@@ -1,14 +1,14 @@
 # 👋 Hi, I'm M. Shamshiddinov! 
 
-### 🚀 IT Student | Python Wrangler | 3D Storyteller
+### 🚀 CS Student | Python/Java Wrangler | 3D Storyteller
 
 "I write code that works (usually after the third cup of coffee) and build Pixar-style worlds."
 
 ---
 
 ### 🛠️ My Toolbox (Growing every day)
-* **Languages:** `Python` — my main tool for digital conquest.
-* **Web:** `Django` — building backends before the bugs wake up.
+* **Languages:** `Python,Java` — my main tool for digital conquest.
+* **Web:** `Django. Spring` — building backends before the bugs wake up.
 * **Skills:** Mathematics, Logic puzzles, and basic hardware skills (I can definitely plug a cable into a power outlet without breaking anything). 🔌
 * **Multilingual:** English, Russian, Kyrgyz, Uzbek, Turkish. 🌍
 
